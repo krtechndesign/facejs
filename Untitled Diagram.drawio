@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T03:24:59.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="kqDIw9jl8xqLbDKBI6hb" version="15.3.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-09-28T08:17:23.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="x0RRFXMlA3yDnoajyIgj" version="15.3.2" type="github" pages="9">
   <diagram id="O9bzz8WRnijOC_oqu82j" name="user">
     <mxGraphModel dx="654" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -726,6 +726,17 @@
         </mxCell>
         <mxCell id="9QSS8HYNrmSCYZLTa2sR-108" value="Reporting" style="whiteSpace=wrap;html=1;rounded=1;" parent="MLjNWozusECNgthaNirT-1" vertex="1">
           <mxGeometry x="340" y="808" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TvmU-zd9VaBpN_ScTv37" name="Admin Flow Chart">
+    <mxGraphModel dx="240" dy="2960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="gVcRd9-dwFZxc5DaOmu--0" />
+        <mxCell id="gVcRd9-dwFZxc5DaOmu--1" parent="gVcRd9-dwFZxc5DaOmu--0" />
+        <mxCell id="xNG6J7v6lpsMIRu9T3cy-0" value="Mail Service Setup&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gVcRd9-dwFZxc5DaOmu--1">
+          <mxGeometry x="900" y="-2150" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
