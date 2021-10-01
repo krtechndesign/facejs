@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T08:04:32.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="po4d5KdVHfM1Ggh0PYBg" version="15.4.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-10-01T08:06:25.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="ldjvXLVaeDlKgG3TlAh1" version="15.4.0" type="github" pages="9">
   <diagram id="O9bzz8WRnijOC_oqu82j" name="user">
     <mxGraphModel dx="1008" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1099,7 +1099,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m9wUkIackBjgVpl9eHZR-12" value="充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="705" width="120" height="60" as="geometry" />
+          <mxGeometry x="2570" y="702.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m9wUkIackBjgVpl9eHZR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9wUkIackBjgVpl9eHZR-14" target="m9wUkIackBjgVpl9eHZR-26">
           <mxGeometry relative="1" as="geometry" />
@@ -1160,6 +1160,12 @@
         </mxCell>
         <mxCell id="m9wUkIackBjgVpl9eHZR-29" value="不" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2760.5" y="945" width="19.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="P3FsueiYbCASWOcXipoi-4" value="购物" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="12.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3FsueiYbCASWOcXipoi-17" value="&lt;span&gt;购物&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="62.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2230,7 +2236,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h7qHF8uKxYztt2Gv2-r7" name="Flow chart">
-    <mxGraphModel dx="2420" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="lr8HGN7mj3p04-noKRDh-0" />
         <mxCell id="lr8HGN7mj3p04-noKRDh-1" parent="lr8HGN7mj3p04-noKRDh-0" />
@@ -2640,7 +2646,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yTUFXbWqQfVid_UA5gZF" name="wallet">
-    <mxGraphModel dx="654" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Q8TcjI4HjpHN3LhZHA4_-0" />
         <mxCell id="Q8TcjI4HjpHN3LhZHA4_-1" parent="Q8TcjI4HjpHN3LhZHA4_-0" />
@@ -2698,7 +2704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OKhDJ8V4-Y33zdnH4IkO" name="Social with app">
-    <mxGraphModel dx="654" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LzwXjlbljToS_WfS4_nG-0" />
         <mxCell id="LzwXjlbljToS_WfS4_nG-1" parent="LzwXjlbljToS_WfS4_nG-0" />
@@ -2801,7 +2807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2FWHYmIZ1lnXro4x4i8C" name="Tournament">
-    <mxGraphModel dx="654" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uAvHBeOetcH3tVWMjtPJ-0" />
         <mxCell id="uAvHBeOetcH3tVWMjtPJ-1" parent="uAvHBeOetcH3tVWMjtPJ-0" />
@@ -2913,7 +2919,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n2HgtcdmtQuiVHZSvUGv" name="Shop">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="f0pk7JPJ7ox4GicJJVre-0" />
         <mxCell id="f0pk7JPJ7ox4GicJJVre-1" parent="f0pk7JPJ7ox4GicJJVre-0" />
